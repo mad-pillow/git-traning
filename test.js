@@ -5,5 +5,6 @@ const sum = (b, c) => {
 };
 
 // Here we have another logic
+// Some logic
 
 console.log(sum(1, 2));
